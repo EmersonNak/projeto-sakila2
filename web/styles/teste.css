@@ -1,0 +1,35 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22/08/2024, 16:49:06
+    Author     : Senai
+*/
+
+h1{
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+table{
+    width: 100%;
+    margin: 0 auto;
+}
+
+thead{
+    width: 100%;
+    background-color: gray;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+tbody{
+    width: 100%;
+    align-items: center;
+    background-color: graytext;
+    padding: 10px;
+    margin: 0 auto;
+}
